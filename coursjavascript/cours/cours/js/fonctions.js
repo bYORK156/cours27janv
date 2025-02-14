@@ -61,11 +61,21 @@ consol( fois2(d))
 let text = "je suis le texte"
 let text2 = "je suis le 2eme texte"
 
-function (write){
+// function (write){
 
-    returnText
-}
+//     returnText
+// }
 
 console.log(write)
 consol(write)
 
+
+
+//correction
+
+// let text = "je suis le texte"
+// let text2 "je suis le2eme texte"
+
+// function textDom(text){
+//     document.write( "<h1")
+// }
